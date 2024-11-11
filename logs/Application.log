@@ -1,0 +1,19 @@
+DEBUG   2024-11-11 23:23:35,196 [main] devpinoyLogger  - ObjectRepository File Loaded--!!
+DEBUG   2024-11-11 23:23:35,201 [main] devpinoyLogger  - Configuration File Loaded--!!
+DEBUG   2024-11-11 23:23:38,053 [main] devpinoyLogger  - Chrome Loaded and Launched--!!
+DEBUG   2024-11-11 23:23:39,070 [main] devpinoyLogger  - Navigated To--!!Configuration.getProperty('url')
+DEBUG   2024-11-11 23:23:39,352 [main] devpinoyLogger  - Todo CreateTable
+DEBUG   2024-11-11 23:23:39,602 [main] devpinoyLogger  - Platform Launched Clicked!!!!
+DEBUG   2024-11-11 23:23:40,084 [main] devpinoyLogger  - Create New Task Clicked
+DEBUG   2024-11-11 23:23:40,334 [main] devpinoyLogger  - Create New Task Clicked
+DEBUG   2024-11-11 23:23:40,755 [main] devpinoyLogger  - Description Entered!!!
+DEBUG   2024-11-11 23:23:40,970 [main] devpinoyLogger  - Checklist Entered!!!
+DEBUG   2024-11-11 23:23:41,101 [main] devpinoyLogger  - CheckList Added!!!
+DEBUG   2024-11-11 23:23:41,289 [main] devpinoyLogger  - New Checklist Created!!!
+DEBUG   2024-11-11 23:23:41,495 [main] devpinoyLogger  - New Task Added!!!
+DEBUG   2024-11-11 23:23:41,638 [main] devpinoyLogger  - CheckList2 Deleted!!!
+DEBUG   2024-11-11 23:23:41,806 [main] devpinoyLogger  - DropDown Clicked!!!
+DEBUG   2024-11-11 23:23:42,403 [main] devpinoyLogger  - Dropdown Selected!!!
+DEBUG   2024-11-11 23:23:42,891 [main] devpinoyLogger  - New Task Created
+DEBUG   2024-11-11 23:23:43,672 [main] devpinoyLogger  - Background Changed to white!!!
+DEBUG   2024-11-11 23:23:44,209 [main] devpinoyLogger  - Test Execution Finishes here
